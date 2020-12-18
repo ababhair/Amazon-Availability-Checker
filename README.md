@@ -44,7 +44,7 @@ The interval by which the script checks for availability can be changed by chang
 ```sh
 timez= int(150)
 ```
-To create a telegram bot, please refer to the telegram [Wiki][wiki]._
+To create a telegram bot, please refer to the telegram [Wiki][wiki].
 ## Future work
 * Create a json file to grab variables from rather than editing the script
 * Add more notification options
