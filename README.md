@@ -15,6 +15,8 @@ git clone https://github.com/ababhair/Amazon-Availability-Checker
 ```sh
 python3 Amazon-Check.py
 ```
+![]notavail.jpg
+![]avail.jpg
 
 ## Development setup
 
